@@ -1,0 +1,16 @@
+C:\Users\Christopher Shum\Desktop\versions\WinFormSerialExample\WindowsSerialCommander\obj\x86\Release\WindowsSerialCommander.MainForm.resources
+C:\Users\Christopher Shum\Desktop\versions\WinFormSerialExample\WindowsSerialCommander\obj\x86\Release\WindowsSerialCommander.Properties.Resources.resources
+C:\Users\Christopher Shum\Desktop\versions\WinFormSerialExample\WindowsSerialCommander\obj\x86\Release\WindowsSerialCommander.csproj.GenerateResource.Cache
+C:\Users\Christopher Shum\Desktop\versions\WinFormSerialExample\WindowsSerialCommander\obj\x86\Release\WindowsSerialCommander.exe
+C:\Users\Christopher Shum\Desktop\versions\WinFormSerialExample\WindowsSerialCommander\obj\x86\Release\WindowsSerialCommander.pdb
+C:\Users\Christopher Shum\Desktop\versions\WindowsSerialCommander.exe
+C:\Users\Christopher Shum\Desktop\versions\WindowsSerialCommander.pdb
+C:\Users\Christopher Shum\Desktop\versions\WinFormSerialExample\WindowsSerialCommander\obj\x86\Release\WindowsSerialCommander.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\Desktop\versions\WinFormSerialExample\WindowsSerialCommander\obj\x86\Release\WindowsSerialCommander.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\Desktop\versions\WinFormSerialExample\WindowsSerialCommander\obj\x86\Release\WindowsSerialCommander.MainForm.resources
+C:\Users\Christopher\Desktop\versions\WinFormSerialExample\WindowsSerialCommander\obj\x86\Release\WindowsSerialCommander.Properties.Resources.resources
+C:\Users\Christopher\Desktop\versions\WinFormSerialExample\WindowsSerialCommander\obj\x86\Release\WindowsSerialCommander.csproj.GenerateResource.Cache
+C:\Users\Christopher\Desktop\versions\WinFormSerialExample\WindowsSerialCommander\obj\x86\Release\WindowsSerialCommander.exe
+C:\Users\Christopher\Desktop\versions\WinFormSerialExample\WindowsSerialCommander\obj\x86\Release\WindowsSerialCommander.pdb
+C:\Users\Christopher\Desktop\versions\WindowsSerialCommander.exe
+C:\Users\Christopher\Desktop\versions\WindowsSerialCommander.pdb

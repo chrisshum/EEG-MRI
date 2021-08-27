@@ -1,0 +1,7 @@
+C:\Users\Christopher Shum\Desktop\versions\WinFormSerialExample\WindowsSerialCommander\bin\Debug\WindowsSerialCommander.exe
+C:\Users\Christopher Shum\Desktop\versions\WinFormSerialExample\WindowsSerialCommander\bin\Debug\WindowsSerialCommander.pdb
+C:\Users\Christopher Shum\Desktop\versions\WinFormSerialExample\WindowsSerialCommander\obj\x86\Debug\WindowsSerialCommander.MainForm.resources
+C:\Users\Christopher Shum\Desktop\versions\WinFormSerialExample\WindowsSerialCommander\obj\x86\Debug\WindowsSerialCommander.Properties.Resources.resources
+C:\Users\Christopher Shum\Desktop\versions\WinFormSerialExample\WindowsSerialCommander\obj\x86\Debug\WindowsSerialCommander.csproj.GenerateResource.Cache
+C:\Users\Christopher Shum\Desktop\versions\WinFormSerialExample\WindowsSerialCommander\obj\x86\Debug\WindowsSerialCommander.exe
+C:\Users\Christopher Shum\Desktop\versions\WinFormSerialExample\WindowsSerialCommander\obj\x86\Debug\WindowsSerialCommander.pdb
